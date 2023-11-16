@@ -1,6 +1,6 @@
 from lib import Tg_Bot, types
 
-token = '5817276802:AAFHbs2EgPLMvJBPkoh4DTReM9o7dlcbUOM'
+token = ''
 
 bot = Tg_Bot(token)
 
