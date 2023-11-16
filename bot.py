@@ -1,7 +1,7 @@
 from lib import executor, Tg_Bot
 from aiogram import types
 
-token = '5817276802:AAFHbs2EgPLMvJBPkoh4DTReM9o7dlcbUOM'
+token = ''
 
 bot = Tg_Bot(token)
 
